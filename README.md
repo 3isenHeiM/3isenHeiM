@@ -1,8 +1,7 @@
 ### 3isenHeiM 🧙
 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=3isenHeiM&show_icons=true&theme=dark" width="380">
-<p><em>3+ years penetration testing<br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=3isenHeiM&show_icons=true&theme=vue-dark" width="380">
+<p><em>OSCP, 4+ years penetration testing<br>
 
 
 [![Twitter: 3isenHeiM](https://img.shields.io/twitter/follow/3isenHeiM?style=flat-square&logo=twitter)](https://twitter.com/3isenHeiM)
