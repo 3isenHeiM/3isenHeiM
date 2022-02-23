@@ -9,6 +9,8 @@
 
 [![3isenHeiM](https://komarev.com/ghpvc/?username=3isenHeiM&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/3isenHeiM)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=3isenHeim&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <!--
 **3isenHeiM/3isenHeiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
